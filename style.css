@@ -1,0 +1,200 @@
+
+
+.shad {
+    width: 25px;
+    height: 25px;
+    padding: 25px;
+    background-color:rgb(77, 117, 132);
+    box-shadow:10px 10px 5px rgb(20, 61, 79) inset;
+    margin-left:11%;
+    margin-top:5%;
+    
+   
+  }
+  
+  .orange{
+    color:rgb(229, 102, 67);
+    margin-left:20%;
+  }
+  .font{
+ letter-spacing:3px;
+    font-size:39;
+    position: relative;
+    top:-55px;
+    
+  }
+  .blue{
+    background-color:rgb(73, 115, 117);
+    opacity:0.9;  
+    margin-left:62%;
+    height:400px;
+    width:300px;
+    position:relative;
+    top:-150px;
+    z-index:3;
+    border-bottom-left-radius:1000px;
+    border-bottom-right-radius:1000px;
+}
+.set{
+    top:-350px;
+    position:relative;
+}
+.text{
+    font-size:50;
+    text-align: center;
+    font-weight:900;
+    padding-top:35%;
+    opacity:0.9;
+    color:white;
+}
+.fontora{
+    color:rgb(73, 115, 117);
+    font-size:40;
+    position:relative;
+    top:-250px;
+    margin-left:15%;
+    font-weight: bolder ;
+}
+.one{
+font-size:95;
+color: rgb(222, 110, 6);
+font-weight: 800;
+margin-left: 5%;
+margin-top:1%;
+top:-270px;
+position:relative;
+
+}
+.services{
+font-size: 22;
+    color: rgb(57, 130, 133);
+    font-weight: 600;
+    margin-left: 15%;
+    position:relative;
+    top:-450px;    
+}
+.pre2{
+
+    width:600px;
+    font-size:20;
+    color: rgb(73, 115, 117);
+    margin-left: 15%;
+    margin-top:1%;
+    position:relative;
+    top:-475px;
+}  
+.two{   
+    font-size:95;
+    color: rgb(222, 110, 6);
+    font-weight: 800;
+    margin-left: 5%;
+    margin-top:1%;
+    top:-270px;
+    position:relative;
+    
+    }
+    .services2{
+    font-size: 22;
+        color: rgb(57, 130, 133);
+        font-weight: 600;
+        margin-left: 15%;
+        position:relative;
+        top:-450px;    
+    }
+    .pre1{
+    
+        width:600px;
+        font-size:20;
+        color: rgb(73, 115, 117);
+        margin-left: 15%;
+       margin-top:1%;
+       position:relative;
+       top:-475px;
+    }  
+    .three{
+        font-size:95;
+        color: rgb(222, 110, 6);
+        font-weight: 800;
+        margin-left: 5%;
+        margin-top:1%;
+        top:-270px;
+        position:relative;
+        
+        }
+        .services3{
+        font-size: 22;
+            color: rgb(57, 130, 133);
+            font-weight: 600;
+            margin-left: 15%;
+            position:relative;
+            top:-450px;    
+        }
+        .pre3{
+        
+            width:600px;
+            font-size:20;
+            color: rgb(73, 115, 117);
+            margin-left: 15%;
+           margin-top:1%;
+           position:relative;
+           top:-475px;
+        }  
+     .left{
+        position: relative;
+        top:-200px;
+     } 
+     .left2{
+        position: relative;
+        top:-400px;
+     }       
+     
+     .out{
+        font-size:20;
+        color:white:
+        letter-spacing:1px;
+        word-spacing:1px;
+     }
+     .blu{
+       background-color:rgb(57, 130, 133);
+       width:395px;
+       height:145px;
+        
+     }
+    
+    .text4{ 
+        background-color: rgb(222, 110, 6);
+        margin-left: 62%;
+        margin-right:11.5%;
+        height: 250px;
+        width:400px;
+        position: relative;
+        top:20px;
+        margin-top:-20px;
+    }
+    .or{
+        font-size: 22;
+        color: white;
+    }
+    .main{
+        background-color: rgb(212, 228, 228);
+        margin-left: 62%;
+        margin-right: 9%;
+        height: 100px;
+        width:400px;
+        top:-8%;
+        position:relative;
+    }
+    .exam{
+        color:black;
+        font-size: medium;
+        font-weight: bolder;
+        padding-top:15px;      
+    }
+    .position{
+        position: relative;
+        top:-1735px;
+        
+    }
+    ,border{
+        
+    }
